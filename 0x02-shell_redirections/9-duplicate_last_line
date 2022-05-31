@@ -1,2 +1,2 @@
 #!/bin/bash
-line -1 iacta >> iacta
+line -1 <  iacta >> iacta
